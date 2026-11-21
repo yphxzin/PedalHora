@@ -1,0 +1,12 @@
+{
+  "arquitetura": "96 × 48",
+  "mae_teste": {
+    "Baseline": 116.62629459148447,
+    "Árvore de decisão": 104.3497872981522,
+    "Rede Keras": 89.2670669555664
+  },
+  "frase": "No período de teste, a PedalHora estimou o total de aluguéis da rede com um erro médio de 89.3 aluguéis por hora, comparado com 116.6 da regra histórica.",
+  "inicio_teste": "2012-08-07",
+  "fim_teste": "2012-12-31",
+  "n_teste": 3476
+}
